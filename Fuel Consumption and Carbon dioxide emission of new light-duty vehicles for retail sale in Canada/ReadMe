@@ -1,0 +1,8 @@
+
+In this Project, we learn how to use scikit-learn to implement simple linear regression.
+
+1)We download a dataset that is related to fuel consumption and Carbon dioxide emission of cars.
+2)We split our data into training and test sets.
+3)Create a model using training set.
+4)Evaluate your model using test set.
+5)Finally we use model to predict unknown value.
